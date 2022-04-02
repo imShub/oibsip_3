@@ -42,8 +42,11 @@ div{
     padding:7px 20px;
     border-radius: 10px;
     text-align: center;
-    font-size: 16px;
+    font-size: 18px;
     margin: 10px 15px;
+    background-color: #768BB3;
+    border: none;
+    color: rgb(13, 12, 32);
 }
 input {
     flex: 1 1 40%;
